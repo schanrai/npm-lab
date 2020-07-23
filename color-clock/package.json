@@ -1,12 +1,12 @@
 {
   "name": "color-clock",
   "version": "1.0.0",
-  "description": "",
+  "description": "a code clock",
   "main": "index.js",
   "scripts": {
     "test": "echo 'Hello World!'"
   },
-  "author": "",
+  "author": "sushi",
   "license": "ISC",
   "dependencies": {
     "moment": "^2.27.0"
